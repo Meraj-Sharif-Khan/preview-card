@@ -57,17 +57,13 @@ a {
   background-color: #eff3f2;
   font-size: 1.5rem;
   display: inline-block;
-  outline: transparent;
+  outline: 2px solid #eff3f2;
   border: 0;
   padding: 1.5rem 3rem;
   border-radius: 3rem;
   cursor: pointer;
   text-align: center;
   white-space: nowrap;
-}
-
-.btn:hover {
-  outline: 2px solid #fff;
 }
 
 .btn--orange {
